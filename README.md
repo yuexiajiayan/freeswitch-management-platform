@@ -1,2 +1,2 @@
 # freeswitch-management-platform
-Freeswitch management platform, Freeswitch call system
+freesiwtch管理平台 Freeswitch management platform, Freeswitch call system
