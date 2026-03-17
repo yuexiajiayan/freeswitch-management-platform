@@ -1,5 +1,5 @@
 # freeswitch-management-platform
-freesiwtch管理平台 Freeswitch management platform, Freeswitch call system
+freesiwtch管理平台 Freeswitch management platform,freeswitch呼叫系统 Freeswitch call system，freeswitch智能外呼 FreeSWITCH intelligent outbound calling
 
 
 # demo:
