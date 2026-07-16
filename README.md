@@ -4,7 +4,6 @@ freesiwtch管理平台 Freeswitch management platform,freeswitch呼叫系统 Fre
 # 预览效果
 ![](img.png)
 ![](0.png)
-![](1.png)
 ![](2.png)
 
 Coming soon
